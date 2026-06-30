@@ -1,1 +1,1 @@
-Implementação de uma inteligência artificial simples para o xadrez usando MiniMax.
+Implementing a simple artificial intelligence for chess using MiniMax.
